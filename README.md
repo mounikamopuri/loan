@@ -22,4 +22,4 @@ thead th { text-align:center; background:blue; color:white; width:1850px; height
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password&nbsp;&nbsp;:
   <input type="password" name="password"><br><br>
  &nbsp; <br><br>
- <input type="submit" value="Login"/># loan this app
+ <input type="submit" value="Login"/>
